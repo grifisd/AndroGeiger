@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="version">0.07 beta</string>
+    <string name="app_name">AndroGeiger</string>
+    <string name="action_settings">Settings</string>
+    <string name="impulses">Impulses:</string>
+    <string name="dose">Radiation dose:</string>
+    <string name="btnSend">Send</string>
+    <string name="btnStart">Start</string>
+    <string name="manual">Manual</string>
+    <string name="manualtxt">очень много текста мануала блалалалалалла</string>
+
+</resources>
